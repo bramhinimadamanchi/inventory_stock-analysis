@@ -1,0 +1,42 @@
+=== CURRENT STOCK REPORT ===
+   sku         product_name     category  opening_balance  calculated_stock  reorder_level  unit_cost  stock_value
+EL-001       USB-C Cable 1m  Electronics              150                64             40       3.50        224.0
+EL-002       Wireless Mouse  Electronics               80                 0             25       8.75          0.0
+EL-003    Bluetooth Speaker  Electronics               40                23             15      22.00        506.0
+ST-001        A4 Paper Ream   Stationery              200               194             60       4.20        814.8
+ST-002     Gel Pen Box (10)   Stationery              120                64             30       2.80        179.2
+ST-003      Spiral Notebook   Stationery              100                58             35       1.90        110.2
+HK-001 Hand Sanitizer 500ml Housekeeping               90                15             30       3.10         46.5
+HK-002     Floor Cleaner 1L Housekeeping               60                69             20       4.60        317.4
+HK-003      Trash Bags (30) Housekeeping               70                79             25       2.40        189.6
+FN-001         Office Chair    Furniture               20                13              5      65.00        845.0
+FN-002        Standing Desk    Furniture                8                 4              3     140.00        560.0
+EL-004            Webcam HD  Electronics               30                30             12      18.50        555.0
+
+=== LOW-STOCK LIST (recommendations only) ===
+   sku         product_name  calculated_stock  reorder_level  suggested_order_qty
+EL-002       Wireless Mouse                 0             25                   50
+HK-001 Hand Sanitizer 500ml                15             30                   45
+
+=== MOVEMENT (last 30 days) ===
+   sku         product_name  qty_in  qty_out  avg_daily_out  days_of_cover movement_class
+ST-001        A4 Paper Ream     300      201           6.70           29.0           Fast
+EL-001       USB-C Cable 1m     100      166           5.53           11.6           Fast
+HK-001 Hand Sanitizer 500ml      75      102           3.40            4.4           Fast
+ST-002     Gel Pen Box (10)      75       90           3.00           21.3         Medium
+ST-003      Spiral Notebook      87       74           2.47           23.5         Medium
+HK-002     Floor Cleaner 1L     100       54           1.80           38.3         Medium
+EL-002       Wireless Mouse       0       45           1.50            0.0         Medium
+EL-003    Bluetooth Speaker      37       29           0.97           23.7         Medium
+HK-003      Trash Bags (30)      62       16           0.53          149.1           Slow
+FN-001         Office Chair      12        9           0.30           43.3           Slow
+FN-002        Standing Desk       7        9           0.30           13.3           Slow
+EL-004            Webcam HD       0        0           0.00            NaN    No movement
+
+=== ESTIMATED INVENTORY VALUE ===
+category
+Furniture       1405.0
+Electronics     1285.0
+Stationery      1104.2
+Housekeeping     553.5
+TOTAL: 4,347.70

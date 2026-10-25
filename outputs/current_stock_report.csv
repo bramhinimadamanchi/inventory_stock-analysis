@@ -1,0 +1,13 @@
+sku,product_name,category,opening_balance,calculated_stock,reorder_level,unit_cost,stock_value,matches_stored
+EL-001,USB-C Cable 1m,Electronics,150,64,40,3.5,224.0,True
+EL-002,Wireless Mouse,Electronics,80,0,25,8.75,0.0,True
+EL-003,Bluetooth Speaker,Electronics,40,23,15,22.0,506.0,True
+ST-001,A4 Paper Ream,Stationery,200,194,60,4.2,814.8,True
+ST-002,Gel Pen Box (10),Stationery,120,64,30,2.8,179.2,True
+ST-003,Spiral Notebook,Stationery,100,58,35,1.9,110.2,True
+HK-001,Hand Sanitizer 500ml,Housekeeping,90,15,30,3.1,46.5,True
+HK-002,Floor Cleaner 1L,Housekeeping,60,69,20,4.6,317.4,True
+HK-003,Trash Bags (30),Housekeeping,70,79,25,2.4,189.6,True
+FN-001,Office Chair,Furniture,20,13,5,65.0,845.0,True
+FN-002,Standing Desk,Furniture,8,4,3,140.0,560.0,True
+EL-004,Webcam HD,Electronics,30,30,12,18.5,555.0,True
