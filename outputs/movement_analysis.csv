@@ -1,13 +1,13 @@
 product_id,sku,product_name,category,opening_balance,calculated_stock,reorder_level,unit_cost,stock_value,matches_stored,qty_out,qty_in,avg_daily_out,days_of_cover,movement_class
-4,ST-001,A4 Paper Ream,Stationery,200,194,60,4.2,814.8,True,201,300,6.7,29.0,Fast
-1,EL-001,USB-C Cable 1m,Electronics,150,64,40,3.5,224.0,True,166,100,5.53,11.6,Fast
-7,HK-001,Hand Sanitizer 500ml,Housekeeping,90,15,30,3.1,46.5,True,102,75,3.4,4.4,Fast
-5,ST-002,Gel Pen Box (10),Stationery,120,64,30,2.8,179.2,True,90,75,3.0,21.3,Medium
-6,ST-003,Spiral Notebook,Stationery,100,58,35,1.9,110.2,True,74,87,2.47,23.5,Medium
-8,HK-002,Floor Cleaner 1L,Housekeeping,60,69,20,4.6,317.4,True,54,100,1.8,38.3,Medium
-2,EL-002,Wireless Mouse,Electronics,80,0,25,8.75,0.0,True,45,0,1.5,0.0,Medium
-3,EL-003,Bluetooth Speaker,Electronics,40,23,15,22.0,506.0,True,29,37,0.97,23.7,Medium
-9,HK-003,Trash Bags (30),Housekeeping,70,79,25,2.4,189.6,True,16,62,0.53,149.1,Slow
+4,ST-001,A4 Paper Ream,Stationery,200,194,60,4.2,814.8,True,165,150,5.5,35.3,Fast
+1,EL-001,USB-C Cable 1m,Electronics,150,188,40,3.5,658.0,True,136,224,4.53,41.5,Fast
+7,HK-001,Hand Sanitizer 500ml,Housekeeping,90,15,30,3.1,46.5,True,87,0,2.9,5.2,Fast
+5,ST-002,Gel Pen Box (10),Stationery,120,64,30,2.8,179.2,True,78,75,2.6,24.6,Medium
+6,ST-003,Spiral Notebook,Stationery,100,58,35,1.9,110.2,True,62,0,2.07,28.0,Medium
+8,HK-002,Floor Cleaner 1L,Housekeeping,60,69,20,4.6,317.4,True,47,50,1.57,43.9,Medium
+2,EL-002,Wireless Mouse,Electronics,80,1,25,8.75,8.75,True,34,1,1.13,0.9,Medium
+3,EL-003,Bluetooth Speaker,Electronics,40,23,15,22.0,506.0,True,25,0,0.83,27.7,Medium
+9,HK-003,Trash Bags (30),Housekeeping,70,79,25,2.4,189.6,True,15,62,0.5,158.0,Slow
 10,FN-001,Office Chair,Furniture,20,13,5,65.0,845.0,True,9,12,0.3,43.3,Slow
 11,FN-002,Standing Desk,Furniture,8,4,3,140.0,560.0,True,9,7,0.3,13.3,Slow
 12,EL-004,Webcam HD,Electronics,30,30,12,18.5,555.0,True,0,0,0.0,,No movement
